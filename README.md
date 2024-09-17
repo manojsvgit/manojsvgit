@@ -1,8 +1,6 @@
 # Hi, I'm Manoj! 👋
 
-(English version | Clique aqui para versão Português-BR)
-
-💻 | Check out my portfolio website: [https://manojsvgit.github.io/Portfolio/](#)  
+💻 | Check out my portfolio website: [Manoj's Portfolio](https://manojsvgit.github.io/Portfolio/)  
 I am a software developer and student majoring in Information Science. With a passion for creating and experimenting, I focus on diverse projects and technologies. I enjoy turning ideas into functional applications and learning new things along the way.
 
 ## Recent Projects
@@ -30,7 +28,7 @@ A fun Python game simulating a coffee machine with various functionalities. It's
 Feel free to connect with me:
 
 - [GitHub Profile](https://github.com/manojsvgit)
-- [LinkedIn](#) (Add your LinkedIn profile link here)
+- [LinkedIn](https://www.linkedin.com/in/manojsvgit/)
 - [Twitter](#) (Add your Twitter profile link here)
 
 ## Fun Fact
@@ -40,4 +38,3 @@ I love diving into new projects and exploring different areas of technology. Whe
 ---
 
 *I'm here to learn, share my knowledge, and track my progress. Check out my repositories to see what I've been working on and feel free to reach out if you have any questions or just want to chat about tech!*
-
