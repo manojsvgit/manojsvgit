@@ -1,29 +1,31 @@
-# Welcome to Manoj's GitHub Profile!
+# Hi, I'm Manoj! 👋
 
-## About Me
+(English version | Clique aqui para versão Português-BR)
 
-Hello! I'm Manoj, a passionate software developer and student majoring in Information Science. I enjoy working on diverse projects, from developing Python applications to creating engaging web experiences. My goal is to connect with the IT community worldwide and contribute to exciting and innovative projects.
+💻 | Check out my portfolio website: [Your Portfolio Link](#)  
+I am a software developer and student majoring in Information Science. With a passion for creating and experimenting, I focus on diverse projects and technologies. I enjoy turning ideas into functional applications and learning new things along the way.
 
-## Current Projects
-
-### Hangman Game
-I’m working on a Hangman game in Python. It’s a fun way to improve my coding skills and experiment with new techniques.
-
-### Voice-Based Email System for the Blind
-I'm developing a voice-based email system using Python, aimed at enhancing accessibility for the visually impaired.
-
-### Coffee Machine Game
-Another exciting project in the works is a coffee machine game, where I’m implementing various functionalities to make it engaging.
+## Recent Projects
 
 ### SGPA Calculator
-I’m also building an SGPA calculator with a dark theme and custom design. It's a handy tool for students to calculate their SGPA based on their marks.
+A custom SGPA calculator with a dark theme and user-friendly design. It's a handy tool for students to calculate their SGPA based on marks across multiple subjects. Deployed using GitHub Pages.
+
+### Hangman Game
+A Python-based Hangman game, implementing various coding techniques and providing a fun way to enhance my programming skills.
+
+### Voice-Based Email System for the Blind
+An innovative project designed to make email accessibility easier for the visually impaired. Built using Python with advanced voice recognition features.
+
+### Coffee Machine Game
+A fun Python game simulating a coffee machine with various functionalities. It's a project to practice game development and logic implementation.
 
 ## Skills
 
 - **Programming Languages:** Python, SQL
-- **Tools & Technologies:** MongoDB, Render, GitHub Pages, Heroku
+- **Technologies:** MongoDB, Render, GitHub Pages, Heroku
+- **Tools:** Docker, Flask, FastAPI
 
-## Contact
+## Contact Me
 
 Feel free to connect with me:
 
@@ -31,13 +33,11 @@ Feel free to connect with me:
 - [LinkedIn](#) (Add your LinkedIn profile link here)
 - [Twitter](#) (Add your Twitter profile link here)
 
-## Repository Highlights
+## Fun Fact
 
-- **[100 Days of Code Python by Angela Yu](https://github.com/manojsvgit/100-days-of-code-python-by-angela-yu):** A repository showcasing the projects and exercises from Angela Yu’s Python Bootcamp.
-
-Thank you for visiting my GitHub profile! If you have any questions or just want to chat about tech, don’t hesitate to reach out. 😊
+I love diving into new projects and exploring different areas of technology. When I’m not coding, you might find me reading tech blogs or experimenting with new tools.
 
 ---
 
-*Happy coding!*
+*I'm here to learn, share my knowledge, and track my progress. Check out my repositories to see what I've been working on and feel free to reach out if you have any questions or just want to chat about tech!*
 
