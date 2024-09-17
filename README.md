@@ -2,7 +2,7 @@
 
 (English version | Clique aqui para versão Português-BR)
 
-💻 | Check out my portfolio website: [Your Portfolio Link](#)  
+💻 | Check out my portfolio website: [https://manojsvgit.github.io/Portfolio/](#)  
 I am a software developer and student majoring in Information Science. With a passion for creating and experimenting, I focus on diverse projects and technologies. I enjoy turning ideas into functional applications and learning new things along the way.
 
 ## Recent Projects
