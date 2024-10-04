@@ -28,7 +28,7 @@ A playful Python game simulating a coffee machine with various functionalities. 
 
 Feel free to connect with me:
 
-- [GitHub Profile](https://github.com/manojsvgit)
+- [GitHub](https://github.com/manojsvgit)
 - [LinkedIn](https://www.linkedin.com/in/manojsvgit/)
 - [Twitter](https://x.com/manojpoojary0)
 
