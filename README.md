@@ -30,7 +30,7 @@ Feel free to connect with me:
 
 - [GitHub Profile](https://github.com/manojsvgit)
 - [LinkedIn](https://www.linkedin.com/in/manojsvgit/)
-- [Twitter](#) (Add your Twitter profile link here)
+- [Twitter](https://x.com/manojpoojary0)
 
 ## 🎉 Fun Fact
 
