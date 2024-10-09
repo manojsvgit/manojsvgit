@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a software developer and student majoring in I
 
 ## 🚀 Recent Projects
 
-### 📊 SGPA Calculator
+### 📊 [SGPA Calculator](https://manojsvgit.github.io/SGPA_Calculator/)
 A custom SGPA calculator with a sleek dark theme and user-friendly design. Perfect for students to calculate their SGPA based on marks across multiple subjects. Deployed using GitHub Pages.
 
 ### 💬 [WhisperNet](https://whispernet-qq0p.onrender.com/)
