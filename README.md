@@ -9,8 +9,9 @@ Welcome to my GitHub profile! I'm a software developer and student majoring in I
 ### 📊 SGPA Calculator
 A custom SGPA calculator with a sleek dark theme and user-friendly design. Perfect for students to calculate their SGPA based on marks across multiple subjects. Deployed using GitHub Pages.
 
-### 🎮 Hangman Game
-An engaging Python-based Hangman game that showcases various coding techniques. It’s a fun way to enhance my programming skills and provide a classic gaming experience.
+### 💬 [WhisperNet](https://whispernet-qq0p.onrender.com/)
+
+WhisperNet is a lightweight, real-time chat application that allows anonymous communication between users. It's a sleek project built using HTML, CSS, JavaScript, and WebSockets, designed to enhance my web development skills while delivering a smooth, responsive chat experience.
 
 ### 🗣️ Voice-Based Email System for the Blind
 An innovative project aimed at making email accessibility easier for the visually impaired. Built with Python, featuring advanced voice recognition capabilities.
